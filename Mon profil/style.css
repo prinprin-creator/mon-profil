@@ -1,0 +1,43 @@
+Body{
+background-color:#34404A ;
+color:#D0C9B8 ;
+font-family: times new roman;
+}
+h1 h2 h3 {
+	font-family: courier;
+}
+
+h1 {
+color: #C5AC7B;
+font-size: 32px;
+}
+	
+h2{
+	color: #C5AC7B;
+	font-size: 24px;
+	font-weight: lighter;
+}
+
+a {
+	text-decoration: none;
+	color: #C43024;
+}
+a:hover {
+	color: gold;
+
+/*custom design with classe*/
+.container{
+	width: 700px;
+	margin: 40px auto;
+}
+.card-white {
+	background-color: 
+	padding:40px
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	Border-raduis: 4px;
+	margin: 20px 0px;
+
+}
+
+
+}
